@@ -1,14 +1,13 @@
-🤘Hey, what's up🤘
-🎸I'm a Rock Lover🎸
-15 Years Old
-Nowadays in Year 10 at College
-
-I'm currently attended in:
-🖱Programming Logic🖱
-👩‍💻HTML5 & CSS3👩‍💻
-📦Flexbox📦
-📱Responsive Layouts📱
-🧱CSS Grid🧱
-📁CSS Architecture📁
-🧰Hardware🧰
-📊Office Pack📊
+🤘Hey, what's up🤘<br>
+🎸I'm a Rock Lover🎸<br>
+15 Years Old<br>
+Nowadays in Year 10 at College<br>
+I'm currently attended in:<br>
+🖱Programming Logic🖱<br>
+👩‍💻HTML5 & CSS3👩‍💻<br>
+📦Flexbox📦<br>
+📱Responsive Layouts📱<br>
+🧱CSS Grid🧱<br>
+📁CSS Architecture📁<br>
+🧰Hardware🧰<br>
+📊Office Pack📊<br>
