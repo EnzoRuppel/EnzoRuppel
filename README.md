@@ -9,5 +9,5 @@ I'm currently attended in:<br>
 📱Responsive Layouts📱<br>
 🧱CSS Grid🧱<br>
 📁CSS Architecture📁<br>
-🧰Hardware🧰<br>
+🧰Hardware Maintenance🧰<br>
 📊Office Pack📊<br>
